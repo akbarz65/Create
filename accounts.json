@@ -4,6 +4,11 @@
       "username": "admin",
       "password": "12345",
       "device": ""
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "device": ""
     }
   ]
 }
