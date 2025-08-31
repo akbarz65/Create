@@ -1,18 +1,8 @@
 {
-  "accounts": [
+  "users": [
     {
-      "username": "admin",
-      "password": "12345",
-      "device": ""
-    },
-    {
-      "username": "1",
-      "password": "1",
-      "device": ""
-    },
-    {
-      "username": "Si",
-      "password": "1",
+      "username": "111",
+      "password": "111",
       "device": ""
     }
   ]
